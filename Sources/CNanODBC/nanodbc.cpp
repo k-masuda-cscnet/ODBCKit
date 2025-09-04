@@ -57,7 +57,7 @@
 #include <windows.h>
 #endif
 
-#include <sql.h>
+//#include <sql.h>
 #include <sqlext.h>
 
 // Driver specific SQL data type defines.
