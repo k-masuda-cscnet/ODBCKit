@@ -57,8 +57,8 @@
 #include <windows.h>
 #endif
 
-//#include <sql.h>
-//#include <sqlext.h>
+#include <sql.h>
+#include <sqlext.h>
 
 // Driver specific SQL data type defines.
 // Microsoft has -150 thru -199 reserved for Microsoft SQL Server Native Client driver usage.
